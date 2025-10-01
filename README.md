@@ -1,1 +1,1 @@
-# Studdnt-contineo
+# Student-contineo
